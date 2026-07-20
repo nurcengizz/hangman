@@ -3,10 +3,7 @@ import sys
 import argparse
 from typing import List, Set
 
-# 240229087 - Berat Eker
-# 240229069 - Ali Can Kumru
-# 240229103 - Nour Jankeez
-# 240229015 - İmen Elinat 
+
 VOWELS = {"A", "E", "I", "O", "U"}
 
 # Bu fonksiyon verilen dosya yolundan kelimeleri yukluyor.
