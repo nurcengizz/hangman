@@ -3,7 +3,6 @@ import sys
 import argparse
 from typing import List, Set
 
-
 VOWELS = {"A", "E", "I", "O", "U"}
 
 # Bu fonksiyon verilen dosya yolundan kelimeleri yukluyor.
